@@ -91,6 +91,8 @@ flowchart LR
 
 関連X投稿: [OpenAI Developers / Appshots](https://x.com/OpenAIDevs/status/2057530207976989179?s=20)
 
+![Appshotsで文脈共有](assets/codex-appshots.jpeg)
+
 ### 何が新しいのか
 
 Appshotsは、アプリの画面状態をCodexに渡し、視覚的な情報をもとに修正や改善を進めるための機能です。OpenAI Help Centerのリリースノートでは、Codexがアプリのスクリーンショットや視覚的状態を扱い、UI改善やデバッグに活用できる流れが説明されています。
@@ -200,6 +202,8 @@ Appshotsを使うときは、「見た目を良くして」だけでは弱いで
 
 関連X投稿: [OpenAI Developers / `/goal`](https://x.com/OpenAIDevs/status/2057530209470210453?s=20)
 
+![目標指定でCodexに任せる](assets/codex-goal.jpeg)
+
 ### 何が新しいのか
 
 `/goal` は、Codexに「単発の修正」ではなく「達成したい目標」を渡すための入口です。Help Centerのリリースノートでは、実験段階を終え、長時間のタスクや複数ステップの作業をCodexに任せる体験として位置づけられています。
@@ -308,6 +312,8 @@ YouTube動画の文字起こしを入力すると、Instagram Reels、TikTok、n
 ## 3. Codexのアプリ内ブラウザ: 見て、直して、また見る反復作業
 
 関連X投稿: [OpenAI Developers / アプリ内ブラウザでの反復作業](https://x.com/OpenAIDevs/status/2057530210967523399?s=20)
+
+![Codex注釈を速く](assets/codex-browser-annotations.jpeg)
 
 ### 何が新しいのか
 
@@ -430,6 +436,8 @@ Codexにブラウザ操作を任せるときは、「本番で送信しない」
 ## 4. チーム間でプラグインを共有: Codexを社内標準ワークフローに近づける
 
 関連X投稿: [OpenAI Developers / チーム間プラグイン共有](https://x.com/OpenAIDevs/status/2057530212339097994?s=20)
+
+![社内プラグイン共有](assets/codex-plugins.jpeg)
 
 ### 何が新しいのか
 
@@ -554,6 +562,8 @@ Codexのチーム利用では、プラグイン、スキル、アプリ連携を
 
 関連X投稿: [OpenAI Developers / Codex Analytics改善](https://x.com/OpenAIDevs/status/2057530213974814844?s=20)
 
+![Codex分析が強化](assets/codex-analytics.jpeg)
+
 ### 何が新しいのか
 
 OpenAI Help Centerのリリースノートでは、ChatGPT Business / Enterprise向けにCodex Analyticsの改善が案内されています。組織でCodexを使う場合、個人の満足度だけではなく、利用状況、導入効果、安全に使うための管理ルールを見える化する必要があります。
@@ -665,6 +675,8 @@ quadrantChart
 ## 6. どこでも、いつでも、常にCodexを: 作業入口が増える意味
 
 関連X投稿: [OpenAI Developers / どこでも、いつでも、常にCodexを](https://x.com/OpenAIDevs/status/2057536706778378692?s=20)
+
+![ロック中でも操作](assets/codex-locked-use.jpeg)
 
 ### 何が新しいのか
 
